@@ -45,8 +45,9 @@ In case that you do not have an NVIDIA GPU the code will not use the GPU at all,
 ## Writen by
 - David Denisov ([email](mailto:daviddenisov14@gmail.com "Official writer email")), the sole writer all the code (unless stated otherwise).
 
+
 ### Honorable mentions
-- Prof. Dan Feldman ([Official email](mailto:dannyf.post@gmail.com "Official mentor email")), the thesis supervisor that was always eager to answer any question regarding the research or writing, and to provide a constructive feedback.
+- Prof. Dan Feldman, the thesis supervisor that was always eager to answer any question regarding the research or writing, and to provide a constructive feedback.
 - Dr. Ibrahim Jubran, the second writer of the thesis, which helped significantly improve the writing, gave ideas on missing parts in the tests,
 and find bugs in the proofs.
 Unfortunately since I (David Denisov) had a lot of bugs the last part was more significant than I would have hoped too, but
