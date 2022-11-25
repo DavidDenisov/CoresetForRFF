@@ -43,7 +43,7 @@ In case that you do not have an NVIDIA GPU the code will not use the GPU at all,
 
 
 ## Writen by
-- David Denisov ([email](mailto:daviddenisov14@gmail.com "Official writer email")), the sole writer all the code (unless stated otherwise).
+- David Denisov, the sole writer all the code (unless stated otherwise).
 
 
 ### Honorable mentions
